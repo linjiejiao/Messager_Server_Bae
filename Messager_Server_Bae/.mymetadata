@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="Messager_Server_Bae"
+  id="myeclipse.1425827303276"
+  context-root="/Messager_Server"
+  j2ee-spec="6.0"
+  archive="Messager_Server_Bae.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
